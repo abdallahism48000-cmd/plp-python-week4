@@ -1,0 +1,3 @@
+#def double(number):
+    # Return the number multiplied by 2
+    return number * 2
